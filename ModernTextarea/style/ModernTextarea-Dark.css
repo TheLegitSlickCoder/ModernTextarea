@@ -1,0 +1,10 @@
+#moderntextarea {
+  background-color: rgb(45, 47, 55);
+  color: rgb(140, 140, 160);
+  -webkit-border-radius: 8.5px;
+  -moz-border-radius: 8.5px;
+  border-radius: 8.5px;
+  width: 460px;
+  height: 270px;
+  border: none;
+}
